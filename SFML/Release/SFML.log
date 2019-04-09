@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  SFML.cpp
+sfml-graphics-s.lib(Image.cpp.obj) : error LNK2001: nierozpoznany symbol zewnętrzny ___std_swap_ranges_trivially_swappable_noalias
+C:\Users\Marta\source\repos\SFML\Release\SFML.exe : fatal error LNK1120: liczba nierozpoznanych elementów zewnętrznych: 1
